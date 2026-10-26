@@ -1,4 +1,4 @@
-# ECHO - Highly Animated And DEsigned POrtfolio 
+# ECHO - Highly Animated And Designed Portfolio 
 
 <div align="center">
 
