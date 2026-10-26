@@ -1,4 +1,4 @@
-# ECHO — Editorial Developer & Designer Portfolio
+# ECHO - Highly Animated And DEsigned POrtfolio 
 
 <div align="center">
 
@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    Crafted by <strong><a href="https://github.com/Jishnu09-siuu">Jishnu Mondal</a></strong> — Designer & Full-Stack Creative Developer.
+    Crafted by <strong><a href="https://github.com/kshitijRM">Kshitij Dinni</a></strong> — Designer & Full-Stack Creative Developer.
   </p>
 
 </div>
