@@ -117,8 +117,8 @@ Because ECHO is completely static and modular, it can be deployed instantly to a
 
 ## ✦ Connect & Socials
 
-- **Portfolio**: [Jishnu Mondal](https://jishnumondal.vercel.app/)
-- **GitHub**: [@Jishnu09-siuu](https://github.com/Jishnu09-siuu)
+- **Portfolio**: [Kshitij Dinni](https://kshitijdinni.me/)
+- **GitHub**: [@kshitijRM](https://github.com/kshitijRM)
 ---
 
 ## ✦ License
